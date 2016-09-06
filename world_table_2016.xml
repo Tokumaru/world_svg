@@ -1,0 +1,2915 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Admin</Author>
+  <LastAuthor>Admin</LastAuthor>
+  <Created>2014-07-22T18:23:17Z</Created>
+  <Version>14.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>8475</WindowHeight>
+  <WindowWidth>15315</WindowWidth>
+  <WindowTopX>360</WindowTopX>
+  <WindowTopY>150</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Interior/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="16138" ss:ExpandedRowCount="273"
+   x:FullColumns="1" x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:Index="3" ss:Width="119.25"/>
+   <Column ss:Index="10" ss:Width="51"/>
+   <Column ss:Index="259" ss:Width="119.25"/>
+   <Column ss:Index="266" ss:Width="51"/>
+   <Column ss:Index="515" ss:Width="119.25"/>
+   <Column ss:Index="522" ss:Width="51"/>
+   <Column ss:Index="771" ss:Width="119.25"/>
+   <Column ss:Index="778" ss:Width="51"/>
+   <Column ss:Index="1027" ss:Width="119.25"/>
+   <Column ss:Index="1034" ss:Width="51"/>
+   <Column ss:Index="1283" ss:Width="119.25"/>
+   <Column ss:Index="1290" ss:Width="51"/>
+   <Column ss:Index="1539" ss:Width="119.25"/>
+   <Column ss:Index="1546" ss:Width="51"/>
+   <Column ss:Index="1795" ss:Width="119.25"/>
+   <Column ss:Index="1802" ss:Width="51"/>
+   <Column ss:Index="2051" ss:Width="119.25"/>
+   <Column ss:Index="2058" ss:Width="51"/>
+   <Column ss:Index="2307" ss:Width="119.25"/>
+   <Column ss:Index="2314" ss:Width="51"/>
+   <Column ss:Index="2563" ss:Width="119.25"/>
+   <Column ss:Index="2570" ss:Width="51"/>
+   <Column ss:Index="2819" ss:Width="119.25"/>
+   <Column ss:Index="2826" ss:Width="51"/>
+   <Column ss:Index="3075" ss:Width="119.25"/>
+   <Column ss:Index="3082" ss:Width="51"/>
+   <Column ss:Index="3331" ss:Width="119.25"/>
+   <Column ss:Index="3338" ss:Width="51"/>
+   <Column ss:Index="3587" ss:Width="119.25"/>
+   <Column ss:Index="3594" ss:Width="51"/>
+   <Column ss:Index="3843" ss:Width="119.25"/>
+   <Column ss:Index="3850" ss:Width="51"/>
+   <Column ss:Index="4099" ss:Width="119.25"/>
+   <Column ss:Index="4106" ss:Width="51"/>
+   <Column ss:Index="4355" ss:Width="119.25"/>
+   <Column ss:Index="4362" ss:Width="51"/>
+   <Column ss:Index="4611" ss:Width="119.25"/>
+   <Column ss:Index="4618" ss:Width="51"/>
+   <Column ss:Index="4867" ss:Width="119.25"/>
+   <Column ss:Index="4874" ss:Width="51"/>
+   <Column ss:Index="5123" ss:Width="119.25"/>
+   <Column ss:Index="5130" ss:Width="51"/>
+   <Column ss:Index="5379" ss:Width="119.25"/>
+   <Column ss:Index="5386" ss:Width="51"/>
+   <Column ss:Index="5635" ss:Width="119.25"/>
+   <Column ss:Index="5642" ss:Width="51"/>
+   <Column ss:Index="5891" ss:Width="119.25"/>
+   <Column ss:Index="5898" ss:Width="51"/>
+   <Column ss:Index="6147" ss:Width="119.25"/>
+   <Column ss:Index="6154" ss:Width="51"/>
+   <Column ss:Index="6403" ss:Width="119.25"/>
+   <Column ss:Index="6410" ss:Width="51"/>
+   <Column ss:Index="6659" ss:Width="119.25"/>
+   <Column ss:Index="6666" ss:Width="51"/>
+   <Column ss:Index="6915" ss:Width="119.25"/>
+   <Column ss:Index="6922" ss:Width="51"/>
+   <Column ss:Index="7171" ss:Width="119.25"/>
+   <Column ss:Index="7178" ss:Width="51"/>
+   <Column ss:Index="7427" ss:Width="119.25"/>
+   <Column ss:Index="7434" ss:Width="51"/>
+   <Column ss:Index="7683" ss:Width="119.25"/>
+   <Column ss:Index="7690" ss:Width="51"/>
+   <Column ss:Index="7939" ss:Width="119.25"/>
+   <Column ss:Index="7946" ss:Width="51"/>
+   <Column ss:Index="8195" ss:Width="119.25"/>
+   <Column ss:Index="8202" ss:Width="51"/>
+   <Column ss:Index="8451" ss:Width="119.25"/>
+   <Column ss:Index="8458" ss:Width="51"/>
+   <Column ss:Index="8707" ss:Width="119.25"/>
+   <Column ss:Index="8714" ss:Width="51"/>
+   <Column ss:Index="8963" ss:Width="119.25"/>
+   <Column ss:Index="8970" ss:Width="51"/>
+   <Column ss:Index="9219" ss:Width="119.25"/>
+   <Column ss:Index="9226" ss:Width="51"/>
+   <Column ss:Index="9475" ss:Width="119.25"/>
+   <Column ss:Index="9482" ss:Width="51"/>
+   <Column ss:Index="9731" ss:Width="119.25"/>
+   <Column ss:Index="9738" ss:Width="51"/>
+   <Column ss:Index="9987" ss:Width="119.25"/>
+   <Column ss:Index="9994" ss:Width="51"/>
+   <Column ss:Index="10243" ss:Width="119.25"/>
+   <Column ss:Index="10250" ss:Width="51"/>
+   <Column ss:Index="10499" ss:Width="119.25"/>
+   <Column ss:Index="10506" ss:Width="51"/>
+   <Column ss:Index="10755" ss:Width="119.25"/>
+   <Column ss:Index="10762" ss:Width="51"/>
+   <Column ss:Index="11011" ss:Width="119.25"/>
+   <Column ss:Index="11018" ss:Width="51"/>
+   <Column ss:Index="11267" ss:Width="119.25"/>
+   <Column ss:Index="11274" ss:Width="51"/>
+   <Column ss:Index="11523" ss:Width="119.25"/>
+   <Column ss:Index="11530" ss:Width="51"/>
+   <Column ss:Index="11779" ss:Width="119.25"/>
+   <Column ss:Index="11786" ss:Width="51"/>
+   <Column ss:Index="12035" ss:Width="119.25"/>
+   <Column ss:Index="12042" ss:Width="51"/>
+   <Column ss:Index="12291" ss:Width="119.25"/>
+   <Column ss:Index="12298" ss:Width="51"/>
+   <Column ss:Index="12547" ss:Width="119.25"/>
+   <Column ss:Index="12554" ss:Width="51"/>
+   <Column ss:Index="12803" ss:Width="119.25"/>
+   <Column ss:Index="12810" ss:Width="51"/>
+   <Column ss:Index="13059" ss:Width="119.25"/>
+   <Column ss:Index="13066" ss:Width="51"/>
+   <Column ss:Index="13315" ss:Width="119.25"/>
+   <Column ss:Index="13322" ss:Width="51"/>
+   <Column ss:Index="13571" ss:Width="119.25"/>
+   <Column ss:Index="13578" ss:Width="51"/>
+   <Column ss:Index="13827" ss:Width="119.25"/>
+   <Column ss:Index="13834" ss:Width="51"/>
+   <Column ss:Index="14083" ss:Width="119.25"/>
+   <Column ss:Index="14090" ss:Width="51"/>
+   <Column ss:Index="14339" ss:Width="119.25"/>
+   <Column ss:Index="14346" ss:Width="51"/>
+   <Column ss:Index="14595" ss:Width="119.25"/>
+   <Column ss:Index="14602" ss:Width="51"/>
+   <Column ss:Index="14851" ss:Width="119.25"/>
+   <Column ss:Index="14858" ss:Width="51"/>
+   <Column ss:Index="15107" ss:Width="119.25"/>
+   <Column ss:Index="15114" ss:Width="51"/>
+   <Column ss:Index="15363" ss:Width="119.25"/>
+   <Column ss:Index="15370" ss:Width="51"/>
+   <Column ss:Index="15619" ss:Width="119.25"/>
+   <Column ss:Index="15626" ss:Width="51"/>
+   <Column ss:Index="15875" ss:Width="119.25"/>
+   <Column ss:Index="15882" ss:Width="51"/>
+   <Column ss:Index="16131" ss:Width="119.25"/>
+   <Column ss:Index="16138" ss:Width="51"/>
+   <!--
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ID</Data></Cell>
+    <Cell><Data ss:Type="String">Adjacent</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Name</Data></Cell>
+    <Cell><Data ss:Type="Number">Coast</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Terrain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Feature</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Resource</Data></Cell>
+   </Row> -->
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ArO</Data></Cell>
+    <Cell><Data ss:Type="String">BeS Anc Yel Rey BaS Ark Sib Yak Vla</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">arctic_ocean</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ocean</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ice</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">BeS</Data></Cell>
+    <Cell><Data ss:Type="String">ArO Vla Anc EaP WeP</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">bering_strait</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sea</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Anc</Data></Cell>
+    <Cell><Data ss:Type="String">ArO BeS Yel Van</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">anchorage</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">tundra</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">taiga</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">oil</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Yel</Data></Cell>
+    <Cell><Data ss:Type="String">ArO Anc Van Cal Win LaS</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">yellowknife</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">tundra</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ice</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">gold</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Van</Data></Cell>
+    <Cell><Data ss:Type="String">EaP Anc Yel Cal Sea Pau</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">vancouver</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">tundra</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">fur</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Cal</Data></Cell>
+    <Cell><Data ss:Type="String">Cal Yel Win Pau</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">calgary</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">plain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">taiga</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">oil</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Win</Data></Cell>
+    <Cell><Data ss:Type="String">Yel Cal Pau GrL LaS Tor</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">winnipeg</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">tundra</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">taiga</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">coal</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Tor</Data></Cell>
+    <Cell><Data ss:Type="String">Win GrL Ind Phi Yor Mtr</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">toronto</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">uranium</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Mtr</Data></Cell>
+    <Cell><Data ss:Type="String">Tor LaS Hal Bos Yor</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">montreal</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">tundra</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">taiga</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">fur</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Hal</Data></Cell>
+    <Cell><Data ss:Type="String">Mtr StJ LaS NoA</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">halifax</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">tundra</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">taiga</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">fur</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">StJ</Data></Cell>
+    <Cell><Data ss:Type="String">Mtr Hal Bos NoA</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">saint_johns</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">taiga</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">LaS</Data></Cell>
+    <Cell><Data ss:Type="String">ArO Yel Win Tor Mtr Hal NoA Rey BaS Edi Dub EnC</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">labrador</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sea</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">taiga</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">GrL</Data></Cell>
+    <Cell><Data ss:Type="String">Win Pau Chg Ind Tor Phi Yor</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">great_lakes</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sea</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">EaP</Data></Cell>
+    <Cell><Data ss:Type="String">WeP BeS Anc Van Sea SaF LoA Tij Chh Eca Gut Pan Hon SPa</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">east_pacific</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ocean</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Sea</Data></Cell>
+    <Cell><Data ss:Type="String">Van EaP Pau Den SaF</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">seattle</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">taiga</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">SaF</Data></Cell>
+    <Cell><Data ss:Type="String">EaP Sea LoA Pho</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">san_francisco</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">gold</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">LoA</Data></Cell>
+    <Cell><Data ss:Type="String">EaP SaF Den Pho Tij</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">los_angeles</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">alcohol</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Pau</Data></Cell>
+    <Cell><Data ss:Type="String">Sea Van Cal Win GrL Den OkC Chg</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">saint_paul</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">plain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">coal</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Den</Data></Cell>
+    <Cell><Data ss:Type="String">Sea Pau Pho Chg Orl OkC</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">denver</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">hill</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">gems</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Pho</Data></Cell>
+    <Cell><Data ss:Type="String">LoA Den OkC Hou Tij Chh</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">phoenix</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">plain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">copper</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">OkC</Data></Cell>
+    <Cell><Data ss:Type="String">Pau Den Pho Chg Hou Orl</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">oklahoma_city</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">plain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Chg</Data></Cell>
+    <Cell><Data ss:Type="String">GrL Pau OkC Orl Ind WDC</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">chicago</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">fur</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Orl</Data></Cell>
+    <Cell><Data ss:Type="String">Hou OkC Chg Chl Jac GoM</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">new_orleans</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">river</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">oil</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Hou</Data></Cell>
+    <Cell><Data ss:Type="String">Pho OkC Orl GoM Chh Pue</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">houston</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">plain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">oil</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Ind</Data></Cell>
+    <Cell><Data ss:Type="String">GrL Chg WDC Phi Tor Chl</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">indianapolis</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">river</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">iron</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Bos</Data></Cell>
+    <Cell><Data ss:Type="String">Mtr StJ NoA Yor</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">boston</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Yor</Data></Cell>
+    <Cell><Data ss:Type="String">GrL Tor Mtr Bos NoA Phi</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">new_york</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">iron</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">NoA</Data></Cell>
+    <Cell><Data ss:Type="String">LaS Hal StJ Bos Yor Phi WDC Chl Jac MiA Nas Bil Lis</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">north_atlantic</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ocean</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Phi</Data></Cell>
+    <Cell><Data ss:Type="String">Yor Ind GrL WDC NoA</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">philadelphia</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">uranium</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">WDC</Data></Cell>
+    <Cell><Data ss:Type="String">Phi Ind Orl Chl NoA</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">washington_dc</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">drugs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Chl</Data></Cell>
+    <Cell><Data ss:Type="String">Phi NoA Chg Orl Jac</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">charlotte</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Jac</Data></Cell>
+    <Cell><Data ss:Type="String">Chl Orl GoM Nas NoA</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jacksonville</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">textiles</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Tij</Data></Cell>
+    <Cell><Data ss:Type="String">LoA Pho Chh EaP</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">tijuana</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">desert</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">drugs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Chh</Data></Cell>
+    <Cell><Data ss:Type="String">Tij Pho Hou Mex Eca Pue GoM</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">chihuahua</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">hill</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">coal</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Mex</Data></Cell>
+    <Cell><Data ss:Type="String">Chh Eca Pue Mer</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">mexico_city</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">river</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">gold</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Pue</Data></Cell>
+    <Cell><Data ss:Type="String">Chh Hou GoM Mex Eca Mer</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">puebla</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">plain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Eca</Data></Cell>
+    <Cell><Data ss:Type="String">Chh Mex EaP Pue Mer Gut</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ecpatec</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">hill</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sugar</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Mer</Data></Cell>
+    <Cell><Data ss:Type="String">Pue Eca Gut GoM CaS</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">merida</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">gems</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">GoM</Data></Cell>
+    <Cell><Data ss:Type="String">Chh Pue Hou Orl Jac Nas Hav CaS Mer</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">gulf_of_mexico</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sea</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">oil</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Nas</Data></Cell>
+    <Cell><Data ss:Type="String">Jac NoA MiA PaP SaD SaJ</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">nassau</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">hill</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sugar</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Hav</Data></Cell>
+    <Cell><Data ss:Type="String">Nas GoM CaS PaP</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">havana</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">gold</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">PaP</Data></Cell>
+    <Cell><Data ss:Type="String">CaS Hav Nas SaD</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">port_au_prince</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sugar</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">SaD</Data></Cell>
+    <Cell><Data ss:Type="String">PaP CaS Nas MiA SaJ</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">santo_domingo</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">plain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">alcohol</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">SaJ</Data></Cell>
+    <Cell><Data ss:Type="String">CaS MiA SaD Car Par</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">san_juan</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">plain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">spice</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">CaS</Data></Cell>
+    <Cell><Data ss:Type="String">Mer GoM Hav PaP SaD SaJ Gut Bog Car</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">carribean_sea</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sea</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">MiA</Data></Cell>
+    <Cell><Data ss:Type="String">NoA Nas SaD SaJ Par Blm For Lis Cor Alb Fes WeS Mnr SoA</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">mid_atlantic</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ocean</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Gut</Data></Cell>
+    <Cell><Data ss:Type="String">EaP Eca Mer CaS Pan</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">guatemala</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">drugs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Pan</Data></Cell>
+    <Cell><Data ss:Type="String">EaP Gut CaS Bog</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">panama</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">drugs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Bog</Data></Cell>
+    <Cell><Data ss:Type="String">Pan SoP Qui CaS Car And</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">bogata</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">drugs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Car</Data></Cell>
+    <Cell><Data ss:Type="String">Bog CaS SaJ Par And</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">caracas</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">oil</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Par</Data></Cell>
+    <Cell><Data ss:Type="String">Car SaJ MiA Blm Mns</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">paramaribo</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">plain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sugar</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Qui</Data></Cell>
+    <Cell><Data ss:Type="String">SoP Bog Lim</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">quito</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">hill</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">drugs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Lim</Data></Cell>
+    <Cell><Data ss:Type="String">SoP Qui And Cuz</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">lima</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">river</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">copper</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Cuz</Data></Cell>
+    <Cell><Data ss:Type="String">SoP Lim And Paz San</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">cuzco</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">hill</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">gold</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Paz</Data></Cell>
+    <Cell><Data ss:Type="String">Cuz San And Brs RdJ Mtv BuA Brs</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">la_paz</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">hill</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">tin</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">And</Data></Cell>
+    <Cell><Data ss:Type="String">Bog Car Lim Cuz Paz Mns</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">andes</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">mountain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">SoP</Data></Cell>
+    <Cell><Data ss:Type="String">Hon WeP EaP Pan Bog Qui Lim Cuz Suv AnS Tok Hir Fuk Oki Mla Dav Cel Mor</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">south_pacific</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ocean</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">San</Data></Cell>
+    <Cell><Data ss:Type="String">AnS Cuz Paz BuA Neu</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">santiago</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">hill</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">copper</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">BuA</Data></Cell>
+    <Cell><Data ss:Type="String">Paz San Mtv Neu SoA</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">buenos_aires</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">river</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">coal</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Neu</Data></Cell>
+    <Cell><Data ss:Type="String">San BuA SoA AnS</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">neuquen</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">tundra</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">copper</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Mtv</Data></Cell>
+    <Cell><Data ss:Type="String">Paz BuA RdJ SoA</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">montevideo</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">alcohol</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Blm</Data></Cell>
+    <Cell><Data ss:Type="String">Par Brs MiA For Sal Brs</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">belem</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">river</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sugar</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Mns</Data></Cell>
+    <Cell><Data ss:Type="String">And Par Blm Brs</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">manaus</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">drugs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Brs</Data></Cell>
+    <Cell><Data ss:Type="String">Paz And Mns Blm Sal BeH SaP RdJ</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">brasilia</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">plain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">iron</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">For</Data></Cell>
+    <Cell><Data ss:Type="String">Blm Sal MiA SoA</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">fortaleza</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">plain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Sal</Data></Cell>
+    <Cell><Data ss:Type="String">For SoA Blm Brs SaP BeH</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">salvador</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">plain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">gems</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">BeH</Data></Cell>
+    <Cell><Data ss:Type="String">Sal Brs SoA SaP</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">belo_horizonte</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">SaP</Data></Cell>
+    <Cell><Data ss:Type="String">SoA Brs RdJ BeH</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sao_paulo</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">oil</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">RdJ</Data></Cell>
+    <Cell><Data ss:Type="String">Paz Mtv SoA SaP Brs</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">rio_de_janeiro</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">coal</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Rey</Data></Cell>
+    <Cell><Data ss:Type="String">LaS BaS ArO</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">reykjavik</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">tundra</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">taiga</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">fur</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">BaS</Data></Cell>
+    <Cell><Data ss:Type="String">ArO Rey Dub Blf Edi Osl Ark NoS</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">barents_sea</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sea</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">oil</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Dub</Data></Cell>
+    <Cell><Data ss:Type="String">LaS EnC BaS Blf</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">dublin</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">alcohol</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Blf</Data></Cell>
+    <Cell><Data ss:Type="String">Dub BaS Edi Mnc</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">belfast</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Edi</Data></Cell>
+    <Cell><Data ss:Type="String">LaS BaS NoS Blf Car Mnc</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">edinburgh</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">hill</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">oil</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Mnc</Data></Cell>
+    <Cell><Data ss:Type="String">Car Edi NoS Lon Blf</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">manchester</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">iron</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Car</Data></Cell>
+    <Cell><Data ss:Type="String">EnC Edi Mnc Lon</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">cardiff</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">tin</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Lon</Data></Cell>
+    <Cell><Data ss:Type="String">EnC NoS Mnc Car</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">london</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">river</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">coal</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">NoS</Data></Cell>
+    <Cell><Data ss:Type="String">BaS Osl Edi Mnc Lon Brs Ams Ham Cop Sto</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">north_sea</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sea</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Osl</Data></Cell>
+    <Cell><Data ss:Type="String">BaS NoS Sto Hel Ark</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">oslo</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">hill</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">iron</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Sto</Data></Cell>
+    <Cell><Data ss:Type="String">Osl Cop NoS Bal Hel</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">stockholm</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">copper</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Hel</Data></Cell>
+    <Cell><Data ss:Type="String">Osl Sto Ark StP Bal</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">helsinki</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">taiga</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">fur</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Bal</Data></Cell>
+    <Cell><Data ss:Type="String">Cop Sto Hel StP Rig Vil Gda Ber</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">baltic_sea</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sea</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Cop</Data></Cell>
+    <Cell><Data ss:Type="String">NoS Sto Ham Bal</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">copenhagen</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">textiles</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">EnC</Data></Cell>
+    <Cell><Data ss:Type="String">LaS Dub NoA Car Edi Lon Brs Pic Nan Bor Bil</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">english_channel</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sea</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Ams</Data></Cell>
+    <Cell><Data ss:Type="String">NoS Brs Ham Clg</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">amsterdam</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">spice</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Brs</Data></Cell>
+    <Cell><Data ss:Type="String">NoS EnC Pic Str Clg</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">brussels</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sugar</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Pic</Data></Cell>
+    <Cell><Data ss:Type="String">EnC Brs Nan Par Str</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">picardy</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">alcohol</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Nan</Data></Cell>
+    <Cell><Data ss:Type="String">EnC Pic Par Bor</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">nantes</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">copper</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Par</Data></Cell>
+    <Cell><Data ss:Type="String">Nan Pic Str Bor Mar</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">paris</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">river</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">coal</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Str</Data></Cell>
+    <Cell><Data ss:Type="String">Brs Pic Par Mar Zur</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">strasbough</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">iron</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Bor</Data></Cell>
+    <Cell><Data ss:Type="String">Nan Par Mar Bil</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">bordeaux</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">alcohol</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Mar</Data></Cell>
+    <Cell><Data ss:Type="String">Bor Par Str Zur Bac Mil GoL</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">marseilles</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">plain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">coal</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Bil</Data></Cell>
+    <Cell><Data ss:Type="String">EnC NoA Bor Mar Lis Mad Bac</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">bilbao</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">hill</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">gold</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Mad</Data></Cell>
+    <Cell><Data ss:Type="String">Bil Lis Cor Bac</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">madrid</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">plain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">iron</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Bac</Data></Cell>
+    <Cell><Data ss:Type="String">Bil Mad Mar GoL Cor Alb</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">barcelona</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">coal</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Cor</Data></Cell>
+    <Cell><Data ss:Type="String">Lis MiA Mad Bac Alb</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">cordoba</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">plain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">tin</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Lis</Data></Cell>
+    <Cell><Data ss:Type="String">NoA MiA Bil Mad Cor</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">lisbon</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">incense</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">GoL</Data></Cell>
+    <Cell><Data ss:Type="String">Bac Mar Mil Flo Rom Nap Alb</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">gulf_of_lions</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sea</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Alb</Data></Cell>
+    <Cell><Data ss:Type="String">Cor Bac Nap Fes Alg Tun Ion</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">alboran_sea</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sea</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Ham</Data></Cell>
+    <Cell><Data ss:Type="String">Ams NoS Cop Ber Clg Fra</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">hamburg</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">coal</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Clg</Data></Cell>
+    <Cell><Data ss:Type="String">Ham Fra Ams Brs Str Zur Mun</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">cologne</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">iron</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Fra</Data></Cell>
+    <Cell><Data ss:Type="String">Ham Clg Mun Ber Pra</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">frankfurt</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">copper</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Ber</Data></Cell>
+    <Cell><Data ss:Type="String">Ham Bal Fra Pra Wro Gda</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">berlin</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">uranium</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Mun</Data></Cell>
+    <Cell><Data ss:Type="String">Fra Clg Zur Alp Vie Pra</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">munich</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">river</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">coal</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Zur</Data></Cell>
+    <Cell><Data ss:Type="String">Mun Str Mar Mil Alp</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">zurich</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">hill</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">coal</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Alp</Data></Cell>
+    <Cell><Data ss:Type="String">Vie Mun Zur Mil Flo Ven</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">alps</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">mountain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Mil</Data></Cell>
+    <Cell><Data ss:Type="String">Mar GoL Flo Alp Zur</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">milan</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">coal</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Flo</Data></Cell>
+    <Cell><Data ss:Type="String">GoL Mil Alp Ven Rom</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">florence</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">tin</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Ven</Data></Cell>
+    <Cell><Data ss:Type="String">Alp Flo Rom Nap Vie Zag Adr</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">venice</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">iron</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Rom</Data></Cell>
+    <Cell><Data ss:Type="String">GoL Flo Ven Nap</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">rome</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">river</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">alcohol</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Nap</Data></Cell>
+    <Cell><Data ss:Type="String">Rom GoL Adr Ven Ion Alb</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">naples</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">coal</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Adr</Data></Cell>
+    <Cell><Data ss:Type="String">Nap Ven Zag Sar Tir Ion</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">adriatic_sea</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sea</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Ion</Data></Cell>
+    <Cell><Data ss:Type="String">Alb GoL Nap Adr Ath EaM Tun Ben Tri Tir</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ionian_sea</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sea</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Gda</Data></Cell>
+    <Cell><Data ss:Type="String">Bal Ber Wro War Vil</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">g_dansk</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">gems</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">War</Data></Cell>
+    <Cell><Data ss:Type="String">Vil Gda Wro Kra Mol Min</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">warsaw</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">iron</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Wro</Data></Cell>
+    <Cell><Data ss:Type="String">Gda Ber Pra Kra War</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wronclaw</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">copper</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Kra</Data></Cell>
+    <Cell><Data ss:Type="String">War Wro Pra Brt Mol</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">krakow</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">coal</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Pra</Data></Cell>
+    <Cell><Data ss:Type="String">Ber Wro Fra Mun Vie Brt</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">prague</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">iron</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Vie</Data></Cell>
+    <Cell><Data ss:Type="String">Mun Alp Ven Zag Bud Brt Pra</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">vienna</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">gold</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Brt</Data></Cell>
+    <Cell><Data ss:Type="String">Pra Vie Bud Kra Mol Buc</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">bratislavia</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">plain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">iron</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Rig</Data></Cell>
+    <Cell><Data ss:Type="String">Vil Bal StP Rya Min</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">riga</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">gems</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Vil</Data></Cell>
+    <Cell><Data ss:Type="String">Bal Rig Min Gda War</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">vilnius</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">gems</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Min</Data></Cell>
+    <Cell><Data ss:Type="String">Rya Rig Vil War Mol Kie</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">minsk</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">plain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">iron</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Mol</Data></Cell>
+    <Cell><Data ss:Type="String">Min War Kra Brt Buc Bla Kie Sev</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">moldova</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">silk</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Kie</Data></Cell>
+    <Cell><Data ss:Type="String">Rya Vol Ask Min Mol Sev</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">kiev</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">flood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">uranium</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Sev</Data></Cell>
+    <Cell><Data ss:Type="String">Mol Bla Kie Ask</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sevestapol</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">iron</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Bla</Data></Cell>
+    <Cell><Data ss:Type="String">Mol Sev Ask Bak Buc Sof Con Sin</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">black_sea</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sea</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Bud</Data></Cell>
+    <Cell><Data ss:Type="String">Vie Brt Buc Zag Blg</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">budapest</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">coal</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Zag</Data></Cell>
+    <Cell><Data ss:Type="String">Adr Ven Vie Bud Blg Sar</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">zagreb</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">alcohol</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Blg</Data></Cell>
+    <Cell><Data ss:Type="String">Zag Bud Buc Sof Sar Tir</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">belgrade</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">plain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">coal</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Sar</Data></Cell>
+    <Cell><Data ss:Type="String">Zag Blg Tir Adr</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sarajevo</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">hill</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">coal</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Buc</Data></Cell>
+    <Cell><Data ss:Type="String">Mol Bla Brt Bud Blg Sof</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">bucharest</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">copper</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Sof</Data></Cell>
+    <Cell><Data ss:Type="String">Buc Bla Blg Ath Con Aeg</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sofia</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">copper</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Tir</Data></Cell>
+    <Cell><Data ss:Type="String">Sar Blg Ath Sof Adr Ion</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">tirana</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">hill</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">drugs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Ath</Data></Cell>
+    <Cell><Data ss:Type="String">Tir Ion Aeg EaM Sof</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">athens</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">gold</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Aeg</Data></Cell>
+    <Cell><Data ss:Type="String">Ath Sof Con Izm Ale Tyr EaM</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">aegean_sea</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sea</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">EaM</Data></Cell>
+    <Cell><Data ss:Type="String">Ion Ben Alx Ath Aeg Tyr Jer Sue</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">eastern_mediterranean</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sea</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">copper</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Ark</Data></Cell>
+    <Cell><Data ss:Type="String">Osl BaS Hel StP Mos Yek Kaz</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">arkhangelsk</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">tundra</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">taiga</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">fur</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">StP</Data></Cell>
+    <Cell><Data ss:Type="String">Hel Bal Rig Ark Rya Mos</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">saint_petersburg</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">taiga</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">fur</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Mos</Data></Cell>
+    <Cell><Data ss:Type="String">Ark StP Rya Vol Kaz</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">moscow</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">coal</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Rya</Data></Cell>
+    <Cell><Data ss:Type="String">Mos StP Rig Min Kie Vol</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ryazan</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">plain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">iron</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Vol</Data></Cell>
+    <Cell><Data ss:Type="String">Kaz Mos Rya Ask Kie Bla Ast</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">volgograd</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">plain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">gold</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Ask</Data></Cell>
+    <Cell><Data ss:Type="String">Kie Sev Bla Bak Ast Cas</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">astrakhan</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">plain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Kaz</Data></Cell>
+    <Cell><Data ss:Type="String">Ark Mos Vol Ast Yek</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">kazan</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">plain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Yek</Data></Cell>
+    <Cell><Data ss:Type="String">Ark Kaz Ast Nov Sib</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">yekaterinburg</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">plain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">taiga</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">oil</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Nov</Data></Cell>
+    <Cell><Data ss:Type="String">Yek Ast Alm UlB Yak</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">novosibirsk</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">plain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">taiga</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">copper</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Sib</Data></Cell>
+    <Cell><Data ss:Type="String">ArO Ark Yek Nov Yak</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">siberia</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">tundra</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ice</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">coal</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Yak</Data></Cell>
+    <Cell><Data ss:Type="String">ArO Sib Nov UlB Vla</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">yakutsk</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">tundra</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ice</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">gems</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Vla</Data></Cell>
+    <Cell><Data ss:Type="String">BeS ArO Yak Hrb Chc Pyo Asa WeP</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">vladivostok</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">tundra</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">taiga</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">fur</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Fes</Data></Cell>
+    <Cell><Data ss:Type="String">MiA Alb Alg WeS Tim EaS</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">fes</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">hill</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">gold</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Alg</Data></Cell>
+    <Cell><Data ss:Type="String">Fes Alb EaS Tun</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">algeirs</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">hill</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">iron</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Tun</Data></Cell>
+    <Cell><Data ss:Type="String">Alb Ion Alg EaS Tri</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">tunis</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">alcohol</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Tri</Data></Cell>
+    <Cell><Data ss:Type="String">Tun Ion EaS Ben</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">tripoli</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">desert</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">oil</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Ben</Data></Cell>
+    <Cell><Data ss:Type="String">Tri Ion EaM Alx Asw EaS</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">benghazi</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">plain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">oil</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Alx</Data></Cell>
+    <Cell><Data ss:Type="String">Ben Asw Cai Sue EaM</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">alexandria</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">river</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">textiles</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Sue</Data></Cell>
+    <Cell><Data ss:Type="String">EaM Alx Cai Asw Red Jer Pet</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">suez</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">hill</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">copper</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Cai</Data></Cell>
+    <Cell><Data ss:Type="String">Alx Asw Sue</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">cairo</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">flood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">incense</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Asw</Data></Cell>
+    <Cell><Data ss:Type="String">EaS Ben Alx Sue Kha AlF</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">aswan</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">flood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">gems</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">WeS</Data></Cell>
+    <Cell><Data ss:Type="String">Fes MiA Mnr Tim</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">west_sahara</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">desert</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">iron</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Tim</Data></Cell>
+    <Cell><Data ss:Type="String">WeS Fes Mnr Acc EaS</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">timbuktu</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">river</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">gems</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Mnr</Data></Cell>
+    <Cell><Data ss:Type="String">WeS Tim Acc MiA SoA</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">monrovia</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">plain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">gold</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Acc</Data></Cell>
+    <Cell><Data ss:Type="String">Mnr Tim EaS Lag Nga SoA</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">accra</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sugar</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Lag</Data></Cell>
+    <Cell><Data ss:Type="String">Acc SoA Nga Dou SoA</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">lagos</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">oil</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Nga</Data></Cell>
+    <Cell><Data ss:Type="String">Acc EaS Lag Dou Nji</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ngazargamu</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">plain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">oil</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Nji</Data></Cell>
+    <Cell><Data ss:Type="String">EaS Nga Dou AlF Jub</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">njimi</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">plain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">EaS</Data></Cell>
+    <Cell><Data ss:Type="String">Fes Alg Tun Ben Tri Alx Asw Tim Acc Nga Nji AlF</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">east_sahara</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">desert</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">uranium</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">SoA</Data></Cell>
+    <Cell><Data ss:Type="String">Sal BeH SaP RdJ Mtv BuA Neu AnS Moz Mnr Acc Lag Dou Kin Lua Cap</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">south_atlantic</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ocean</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Dou</Data></Cell>
+    <Cell><Data ss:Type="String">Lag Nga Nji Jub Kin SoA</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">douala</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">textiles</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Kin</Data></Cell>
+    <Cell><Data ss:Type="String">Dou Jub Nai Har Lua SoA</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">kinsasha</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">river</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">copper</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Lua</Data></Cell>
+    <Cell><Data ss:Type="String">Kin Har Cap SoA Joh</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">luanda</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">plain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">gems</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Cap</Data></Cell>
+    <Cell><Data ss:Type="String">SoA Moz Joh Lua</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">cape_town</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">iron</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Joh</Data></Cell>
+    <Cell><Data ss:Type="String">Lua Har Que Moz Cap</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">johanesburg</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">hill</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">gems</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Dur</Data></Cell>
+    <Cell><Data ss:Type="String">Cap Joh Moz</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">durban</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">hill</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Kha</Data></Cell>
+    <Cell><Data ss:Type="String">Red Sue AlF Jub AdA Mog</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">khartoum</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">gold</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">AlF</Data></Cell>
+    <Cell><Data ss:Type="String">Asw EaS Nji Dou Jub Kha</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">al-fashir</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">plain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">oil</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Jub</Data></Cell>
+    <Cell><Data ss:Type="String">Kha AlF Dou Nji Kin Nai AdA</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">juba</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">plain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">coal</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Mog</Data></Cell>
+    <Cell><Data ss:Type="String">Kha AdA Red Moz Nai InO</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">mogadishu</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">desert</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">incense</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">AdA</Data></Cell>
+    <Cell><Data ss:Type="String">Kha Jub Mog Nai</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">addis_ababa</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">hill</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">textiles</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Nai</Data></Cell>
+    <Cell><Data ss:Type="String">Jub AdA Mog Moz Kin</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">nairobi</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">plain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">copper</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Kam</Data></Cell>
+    <Cell><Data ss:Type="String">Moz Kin Har Que</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">kampala</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">plain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Que</Data></Cell>
+    <Cell><Data ss:Type="String">Moz Har Kam Joh</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">quelimane</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">hill</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">incense</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Har</Data></Cell>
+    <Cell><Data ss:Type="String">Joh Lua Kin Nai Que</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">harare</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">hill</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">copper</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Moz</Data></Cell>
+    <Cell><Data ss:Type="String">InO Ant AnS SoA Cap Dur Joh Que Nai Kam</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">mozambique_sea</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ocean</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Ant</Data></Cell>
+    <Cell><Data ss:Type="String">Moz InO</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">antananarivo</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">plain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">gems</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Con</Data></Cell>
+    <Cell><Data ss:Type="String">Sof Bla Sin Izm Ank Aeg</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">constantinople</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">silk</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Izm</Data></Cell>
+    <Cell><Data ss:Type="String">Con Ank Aeg Kon</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">izmir</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">plain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">gold</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Sin</Data></Cell>
+    <Cell><Data ss:Type="String">Bla Con Ank Kon Bak Yer</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sinope</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">hill</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">coal</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Ank</Data></Cell>
+    <Cell><Data ss:Type="String">Con Sin Izm Kon</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ankara</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">hill</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">iron</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Kon</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Ank Izm Aeg Yer Msl</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">konya</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">plain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Yer</Data></Cell>
+    <Cell><Data ss:Type="String">Bak Sin Kon Ale Msl Trn</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">yerevan</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">hill</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">copper</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Bak</Data></Cell>
+    <Cell><Data ss:Type="String">Vol Bla Cas Sin Yer Tab</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">baku</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">desert</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">oil</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Ale</Data></Cell>
+    <Cell><Data ss:Type="String">Kon Aeg Yer Msl Dam Tyr</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">aleppo</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">oil</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Dam</Data></Cell>
+    <Cell><Data ss:Type="String">Tyr Ale Msl Bag Pet</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">damascus</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">river</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">iron</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Tyr</Data></Cell>
+    <Cell><Data ss:Type="String">Aeg EaM Ale Dam Jer</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">tyre</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">hill</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">alcohol</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Jer</Data></Cell>
+    <Cell><Data ss:Type="String">EaM Tyr Dam Pet Sue</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jerusalem</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">plain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">silk</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Msl</Data></Cell>
+    <Cell><Data ss:Type="String">Yer Ale Dam Bag Tab Sus</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">mosul</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">river</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">oil</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Bag</Data></Cell>
+    <Cell><Data ss:Type="String">Msl Dam Pet Sus Tab Kuw</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">baghdad</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">flood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">textiles</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Kuw</Data></Cell>
+    <Cell><Data ss:Type="String">Bag ArD ArS Sus</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">kuwait</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">flood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">oil</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Pet</Data></Cell>
+    <Cell><Data ss:Type="String">Jer Sue Dam Bag AlM ArD</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">petra</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">hill</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">incense</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ArD</Data></Cell>
+    <Cell><Data ss:Type="String">Pet AlM Riy Kuw ArS Dil</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">arabian_desert</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">desert</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">oil</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Red</Data></Cell>
+    <Cell><Data ss:Type="String">Sue Kha Mog ArS InO AlM Mec Sna</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">red_sea</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sea</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">oil</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">AlM</Data></Cell>
+    <Cell><Data ss:Type="String">Pet ArD Riy Mec Red</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">al_medinah</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">hill</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">textiles</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Mec</Data></Cell>
+    <Cell><Data ss:Type="String">AlM Riy KhD Sna Red</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">mecca</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">plain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">incense</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Riy</Data></Cell>
+    <Cell><Data ss:Type="String">AlM Mec ArD Dil KhD</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">riyadh</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">plain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">incense</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Sna</Data></Cell>
+    <Cell><Data ss:Type="String">Mec Red KhD Mus ArS</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sana_a</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">hill</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">spice</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">KhD</Data></Cell>
+    <Cell><Data ss:Type="String">Riy Mec Sna Mus Dil</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">khali_desert</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">desert</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">oil</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Dil</Data></Cell>
+    <Cell><Data ss:Type="String">ArD ArS KhD Mus Riy</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">dubai</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">plain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">oil</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Mus</Data></Cell>
+    <Cell><Data ss:Type="String">Dil ArS Sna KhD</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">muscat</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">hill</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">copper</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Tab</Data></Cell>
+    <Cell><Data ss:Type="String">Bak Yer Msl Sus</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">tabriz</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">hill</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Sus</Data></Cell>
+    <Cell><Data ss:Type="String">Msl Bag Kuw Tab Trn Isf ArS</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">susa</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">river</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">tin</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Trn</Data></Cell>
+    <Cell><Data ss:Type="String">Tab Sus Isf Sam Cas</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">tehran</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">plain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">incense</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Isf</Data></Cell>
+    <Cell><Data ss:Type="String">Sam Trn Sus ArS Kab Kar</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">isfahan</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">desert</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">iron</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Cas</Data></Cell>
+    <Cell><Data ss:Type="String">Bak Vol Ast Ask Sam Tab Trn</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">caspian_sea</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sea</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">oil</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Ast</Data></Cell>
+    <Cell><Data ss:Type="String">Vol Ask Kaz Yek Nov Sam Cas</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">astana</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">hill</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">uranium</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Alm</Data></Cell>
+    <Cell><Data ss:Type="String">Ast Nov UlB Uru Kab Him</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">almaty</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">plain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">silk</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Sam</Data></Cell>
+    <Cell><Data ss:Type="String">Ast Alm Cas Trn Isf Kab</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">samarkand</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">plain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">drugs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Kab</Data></Cell>
+    <Cell><Data ss:Type="String">Sam Alm Him Isf Kar Lah</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">kabul</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">hill</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">gems</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Qet</Data></Cell>
+    <Cell><Data ss:Type="String">Kar Kab Isf ArS</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">quetta</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">plain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Kar</Data></Cell>
+    <Cell><Data ss:Type="String">Que ArS Lah Ahm Jai</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">karachi</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">river</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">copper</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Lah</Data></Cell>
+    <Cell><Data ss:Type="String">Kar Que Kab Him Ahm Del</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">lahore</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">flood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">coal</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ArS</Data></Cell>
+    <Cell><Data ss:Type="String">Kuw Sus Isf Kar Ahm Mum InO Chn Red Mus Dil ArD</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">arabian_sea</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sea</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">oil</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Del</Data></Cell>
+    <Cell><Data ss:Type="String">Him Luc Ahm Jai</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">delhi</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">uranium</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Jai</Data></Cell>
+    <Cell><Data ss:Type="String">Lah Kar Del Luc Bho Ahm</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jaipur</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">flood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Ahm</Data></Cell>
+    <Cell><Data ss:Type="String">Kar Jai Mum ArS</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ahmedabad</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sugar</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Mum</Data></Cell>
+    <Cell><Data ss:Type="String">Ahm InO Bng Bho Hyd Kol</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">mumbai</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">gold</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Bng</Data></Cell>
+    <Cell><Data ss:Type="String">ArS InO Mum Chn Hyd</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">bangalore</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Luc</Data></Cell>
+    <Cell><Data ss:Type="String">Del Him Bho Kol Hyd Pat</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">lucknow</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">river</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">spice</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Bho</Data></Cell>
+    <Cell><Data ss:Type="String">Del Jai Ahm Mum Luc Kol</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">bhopal</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">plain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Hyd</Data></Cell>
+    <Cell><Data ss:Type="String">Mum Bng Chn BaB</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">hyderbad</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">plain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">iron</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Chn</Data></Cell>
+    <Cell><Data ss:Type="String">Bng InO Mum Col Hyd BaB</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">chennai</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">plain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">iron</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Kol</Data></Cell>
+    <Cell><Data ss:Type="String">Hyd Luc Bho Mum Dha BaB</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">kolkata</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">textiles</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Pat</Data></Cell>
+    <Cell><Data ss:Type="String">Luc Kol BaB Him Yan Dha</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">patna</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">flood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Dha</Data></Cell>
+    <Cell><Data ss:Type="String">BaB Pat Kol</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">dhaka</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">flood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">textiles</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">InO</Data></Cell>
+    <Cell><Data ss:Type="String">Ant Moz AnS Bng Chn Col BaB Med Jak CoS Per Out</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">indian_ocean</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ocean</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Col</Data></Cell>
+    <Cell><Data ss:Type="String">Chn BaB InO</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">colombo</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">spice</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">BaB</Data></Cell>
+    <Cell><Data ss:Type="String">Col Chn Hyd Kol Dha Pat Yan Snp Med</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">bay_of_bengal</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sea</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">UlB</Data></Cell>
+    <Cell><Data ss:Type="String">Nov Alm Uru Hoh Yak</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ulan_bator</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">plain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">silk</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Uru</Data></Cell>
+    <Cell><Data ss:Type="String">Alm UlB Hoh Lan Him Lha</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">urumqi</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">hill</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">coal</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Hoh</Data></Cell>
+    <Cell><Data ss:Type="String">UlB Uru Lan Bei Hrb Chc She Bei Jin</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">hohhot</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">desert</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Lan</Data></Cell>
+    <Cell><Data ss:Type="String">Uru UlB Bei Lha Xia Kai</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">lanzhou</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">hill</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">silk</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Lha</Data></Cell>
+    <Cell><Data ss:Type="String">Uru Lan Him Xia Chd Dal</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">lhasa</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">hill</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">textiles</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Him</Data></Cell>
+    <Cell><Data ss:Type="String">Lah Kab Uru Lha Del Luc Pat Chd Dal Yan</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">himalayas</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">mountain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Hrb</Data></Cell>
+    <Cell><Data ss:Type="String">Hoh Yak Vla Chc</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">harbin</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">tundra</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">taiga</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Chc</Data></Cell>
+    <Cell><Data ss:Type="String">Hoh Vla Pyo Jin SoJ She</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">changchun</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">plain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">taiga</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">She</Data></Cell>
+    <Cell><Data ss:Type="String">Hoh Pyo Jin YeS Lan</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">shenyang</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">taiga</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">oil</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Bei</Data></Cell>
+    <Cell><Data ss:Type="String">Hoh Lan Jin Kai</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">beijing</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">plain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">iron</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Xia</Data></Cell>
+    <Cell><Data ss:Type="String">Lan Lha Chd Wuh Kai</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">xi_an</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">flood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">silk</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Kai</Data></Cell>
+    <Cell><Data ss:Type="String">Lan Xia Bei Jin Wuh Njg</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">kaifeng</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">river</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">silk</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Chd</Data></Cell>
+    <Cell><Data ss:Type="String">Lha Dal Xia Wuh Gnz</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">chengdu</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">river</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">coal</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Dal</Data></Cell>
+    <Cell><Data ss:Type="String">Him Lah Chd Gnz Yan Hoi</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">dali</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">hill</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Njg</Data></Cell>
+    <Cell><Data ss:Type="String">Kai Jin Wuh Sgh Hnz</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">nanjing</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">river</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Wuh</Data></Cell>
+    <Cell><Data ss:Type="String">Xia Chd Hnz Snt HoK Gnz</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wuhan</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">flood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">iron</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Jin</Data></Cell>
+    <Cell><Data ss:Type="String">Hoh YeS She Bei Xia Sgh Wuh</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jinan</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">river</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">iron</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Sgh</Data></Cell>
+    <Cell><Data ss:Type="String">Jin Kai Njg Hnz YeS</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">shanghai</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">river</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">uranium</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Hnz</Data></Cell>
+    <Cell><Data ss:Type="String">Sgh Njg Wuh Snt YeS</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">hangzhou</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">silk</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Snt</Data></Cell>
+    <Cell><Data ss:Type="String">Hnz Wuh HoK YeS</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">shantou</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">silk</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">HoK</Data></Cell>
+    <Cell><Data ss:Type="String">Snt Wuh Gnz YeS SCS</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">hong_kong</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">river</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">incense</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Gnz</Data></Cell>
+    <Cell><Data ss:Type="String">Chd Dal Wuh HoK Hoi SCS</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">guangzhou</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">river</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">silk</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">YeS</Data></Cell>
+    <Cell><Data ss:Type="String">Jin She Pyo Seo SoJ Sgh Hnz Snt HoK Tai Oki Fuk</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">yellow_sea</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sea</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">oil</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Pyo</Data></Cell>
+    <Cell><Data ss:Type="String">She Chc Vla YeS SoJ Seo Bus</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">pyongyang</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">iron</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Seo</Data></Cell>
+    <Cell><Data ss:Type="String">Pyo Bus YeS SoJ</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">seoul</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">coal</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Bus</Data></Cell>
+    <Cell><Data ss:Type="String">Pyo Seo SoJ</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">busan</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">spice</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">SoJ</Data></Cell>
+    <Cell><Data ss:Type="String">Vla Asa Sap Pyo Seo Bus Kyo Fuk</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sea_of_japan</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sea</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Asa</Data></Cell>
+    <Cell><Data ss:Type="String">Vla SoJ WeP Sap</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">asahikawa</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">tundra</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">taiga</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">coal</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Sap</Data></Cell>
+    <Cell><Data ss:Type="String">Asa SoJ WeP Kyo Tok</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sapporo</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">iron</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Tok</Data></Cell>
+    <Cell><Data ss:Type="String">Kyo Sap WeP Hir Oki</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">tokyo</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">gold</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Kyo</Data></Cell>
+    <Cell><Data ss:Type="String">Tok Sap SoJ Hir</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">kyoto</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">copper</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Hir</Data></Cell>
+    <Cell><Data ss:Type="String">Fuk Tok Kyo SoJ WeP</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">hiroshima</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Fuk</Data></Cell>
+    <Cell><Data ss:Type="String">YeS SoJ Hir Oki</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">fukuoka</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">uranium</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">WeP</Data></Cell>
+    <Cell><Data ss:Type="String">Vla BeS EaP Asa Sap Tok Oki Hon</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">west_pacific</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ocean</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Oki</Data></Cell>
+    <Cell><Data ss:Type="String">Tai YeS WeP Fuk Tok SoP</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">okinawa</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sugar</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Tai</Data></Cell>
+    <Cell><Data ss:Type="String">YeS SCS Oki</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">taipei</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">spice</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">SCS</Data></Cell>
+    <Cell><Data ss:Type="String">HoK YeS Gnz Hoi Sai Ban Brn Mla SoP Tai</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">south_china_sea</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sea</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">oil</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Yan</Data></Cell>
+    <Cell><Data ss:Type="String">Dha Him Chd Hoi Ban Snp BaB</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">yangon</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">drugs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Hoi</Data></Cell>
+    <Cell><Data ss:Type="String">Yan Ban Chd Gnz Sai SCS</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">hanoi</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">copper</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Sai</Data></Cell>
+    <Cell><Data ss:Type="String">Hoi Ban SCS</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">saigon</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">tin</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Ban</Data></Cell>
+    <Cell><Data ss:Type="String">Hoi Sai SCS GoT Yan Snp</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">bangkok</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">coal</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Snp</Data></Cell>
+    <Cell><Data ss:Type="String">BaB Yan Ban Med GoT</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">singapore</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">spice</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">GoT</Data></Cell>
+    <Cell><Data ss:Type="String">SCS Ban Snp Med Jak Brn Cel</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">gulf_of_thailand</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sea</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Brn</Data></Cell>
+    <Cell><Data ss:Type="String">SCS GoT Cel Dav</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">brunei</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">hill</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">spice</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Mla</Data></Cell>
+    <Cell><Data ss:Type="String">SCS SoP Dav</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">manila</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">copper</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Dav</Data></Cell>
+    <Cell><Data ss:Type="String">Mla SCS SoP Brn Cel</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">davao</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">gold</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Med</Data></Cell>
+    <Cell><Data ss:Type="String">BaB InO Snp GoT Jak</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">medan</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">hill</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">iron</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Jak</Data></Cell>
+    <Cell><Data ss:Type="String">Med Sur InO GoT Cel CoS</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jakarta</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">incense</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Sur</Data></Cell>
+    <Cell><Data ss:Type="String">Jak Cel CoS</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">surabaya</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Cel</Data></Cell>
+    <Cell><Data ss:Type="String">GoT CoS SoP Mor Jak Sur Brn Dav</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">celebes_sea</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sea</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">spice</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Mor</Data></Cell>
+    <Cell><Data ss:Type="String">Cel SoP CoS Suv</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">moresby</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">hill</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">copper</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Out</Data></Cell>
+    <Cell><Data ss:Type="String">CoS Per InO Per Dar Bri Syd Mel AnS</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">outback</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">desert</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">oil</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Per</Data></Cell>
+    <Cell><Data ss:Type="String">InO Out AnS</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">perth</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">plain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">iron</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Dar</Data></Cell>
+    <Cell><Data ss:Type="String">CoS Out Bri</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">darwin</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">hill</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">gems</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Bri</Data></Cell>
+    <Cell><Data ss:Type="String">CoS Out Dar Syd</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">brisbane</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">plain</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">coal</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Syd</Data></Cell>
+    <Cell><Data ss:Type="String">CoS Out Bri Mel</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sydney</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">uranium</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Mel</Data></Cell>
+    <Cell><Data ss:Type="String">AnS CoS Out Syd</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">melbourne</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">copper</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">CoS</Data></Cell>
+    <Cell><Data ss:Type="String">Out Jak Sur Cel Mor Suv Dar Bri Syd Mel Wel AnS</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">coral_sea</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sea</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Suv</Data></Cell>
+    <Cell><Data ss:Type="String">Mor SoP CoS Wel</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">suva</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sea</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">fur</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Wel</Data></Cell>
+    <Cell><Data ss:Type="String">CoS Suv AnS</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wellington</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">wood</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">coal</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Hon</Data></Cell>
+    <Cell><Data ss:Type="String">WeP EaP SoP</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">honolulu</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">grass</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jungle</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sugar</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">AnS</Data></Cell>
+    <Cell><Data ss:Type="String">Moz InO Per Out Mel Wel CoS Suv Cuz San Neu SoA</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">antarctic_sea</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ocean</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Ata</Data></Cell>
+    <Cell><Data ss:Type="String">AnS Moz</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">antarctica</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">desert</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ice</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">oil</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">AnS</Data></Cell>
+    <Cell><Data ss:Type="String">SPa</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">antarctic_ocean</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ocean</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">SPa</Data></Cell>
+    <Cell><Data ss:Type="String">AnS</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">central_pacific</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ocean</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <TopRowVisible>129</TopRowVisible>
+   <LeftColumnVisible>1</LeftColumnVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>135</ActiveRow>
+     <ActiveCol>2</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
