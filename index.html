@@ -1,0 +1,213 @@
+
+<!DOCTYPE html>
+<html>
+
+<div>
+Teritories with wonders are in red and may not be dibbed. 
+<a href="https://docs.google.com/spreadsheets/d/1yAtQxB0h-04fXG4gFOhonAb8HooRvL2o_s7kwoEBvfA/edit#gid=0"> See details and present claims here.</a></div>
+
+<body onload="prepare();">
+    <embed id="sv" src="world_2016_cities.svg" width=900 height=600> </embed>
+    <form name="myForm"
+        onsubmit="validateForm(); return false" method="post">
+        <div>
+        Name: <select id="territory" name="country"></select>
+        <!--Territory: <input type="text" name="country"> -->  
+        </div>
+        <div>
+        Color: <input type="text" name="color"> 
+        </div>
+        <div>
+        PlsIgnore: <input type="text" name="map">
+        <!-- <input type="submit" value="Submit"> --> 
+        </div>
+	</form>
+	<!-- <div>
+    	<textarea id="outputbox" rows="4" cols="20"></textarea>
+    </div> -->
+    <!-- <button type="button" onclick="sendOrders(); return false">Send Orders</button> -->
+</body>
+<head>
+<meta charset="ISO-8859-1">
+<title>World Map</title>
+<script>
+    // Define global variables that will become imported data structures
+	var start; // for prepare and validateForm
+	var SVG; // for prepare and validateForm
+	var terE; // for prepare and validateForm
+ 	var allPaths; // for getIds
+	var allIds; //an array of all of the ids
+	var index; // for setUpMouseEvents
+	// Other variables are defined locally in mouse functions
+	function prepare() { // Sets up the data structures from the svg
+		start = document.getElementById("sv");
+		SVG = start.getSVGDocument();
+		getIds();
+		setUpMouseEvents();
+	}
+	function validateForm() { // Updates the map based on inputs
+		var color = document.forms["myForm"]["color"].value;
+		var country = document.forms["myForm"]["country"].value;
+		var map = document.forms["myForm"]["map"].value;
+		// Temporary example for constructing map  from single key
+		if (map == "test"){
+			var civ = {ters: ["anchorage","vancouver","yellowknife","new york"], color: "red"};
+			var array = civ.ters;
+			color = civ.color;
+		}
+		if (color == null || color == "") {
+			alert("Color must be filled out");
+			return false;
+		} // No need to worry about bad color name because it defaults to black
+		if (map == null || map == ""){
+			country = country.toLowerCase();
+			country = country.replace(" ","_");
+			if (country == null || country == "") {
+				alert("Territory must be filled out");
+				return false;
+			}
+			terE = SVG.getElementById(country);
+			if (terE == null){
+				alert("Invalid territory name. Most are cities or geographical features.");
+				return false;
+			}
+			    terE.setAttribute("fill", color);
+			    addOutput(country + ";" + color);
+			} 
+		else { // Second half of temporary map option
+			for (var elem = 0; elem < array.length; elem ++){
+				country = array[elem];
+				country = country.toLowerCase();
+				country = country.replace(" ","_");
+				terE = SVG.getElementById(country);
+				if (terE == null){
+				    alert("Invalid territory name. Most are cities.");
+					return false;
+				}
+				terE.setAttribute("fill", color);
+			}	
+		}
+	}
+	function getIds(){ // Help build drop down menu?
+	    allPaths = SVG.getElementsByTagName("path");
+        allIds = [];
+        for (var i = 0, n = allPaths.length; i < n; ++i) {
+            var el = allPaths[i];
+            if (el.id) { 
+                allIds.push(el.id);
+                //   addOutput(el.id); //debug
+                //add to drop-down
+                // var select = document.getElementById("territory");
+                // var el2 = document.createElement("option");
+                // el2.textContent = el.id;
+                // el2.value = el.id;
+                // select.appendChild(el2);
+            }
+        }
+        allIds.sort();
+        for(var i = 0; i<allIds.length; i++){
+            var id = allIds[i];
+            var select = document.getElementById("territory");
+            var el2 = document.createElement("option");
+            el2.textContent = id;
+            el2.value = id;
+            select.appendChild(el2);
+        }
+	}
+	function setUpMouseEvents(){ // prepare mouse features
+	    for(index = 0; index<allPaths.length; index++){
+	        var el = allPaths[index];
+	        el.addEventListener('mousemove',hoverOver,false);
+	        el.addEventListener('click',mouseLeftClick,false);
+	        el.addEventListener('mouseout',unhover,false);
+	       // el.addEventListener('contextmenu',mouseRightClick,false); //for eventually selecting multiple
+	       // addOutput("3");
+	    }
+	}
+	function mouseLeftClick(evt){// Update form with left click
+	    var el = evt.target;
+	    var option = document.getElementById('territory');
+	    var color = document.forms["myForm"]["color"].value;
+        option.value = el.id;
+        var currentFill = el.getAttribute("fill");
+        validateForm();
+	}
+// 	function mouseRightClick(evt){ 
+//      // for eventually selecting multiple with right click for some reason
+// 	    evt.preventDefault();
+// 	    var el = evt.target;
+// 	    el.setAttribute("stroke", "black");
+//         el.setAttribute("stroke-linejoin", "round");
+//         el.setAttribute("stroke-dasharray", "2,2");
+//         el.setAttribute("stroke-width", 3);
+// 	}
+    function hoverOver(evt){ // "Highlight" teritopries when hovered over
+        var el = evt.target;
+	    var option = document.getElementById('territory');
+	    // var color = document.forms["myForm"]["color"].value;
+        option.value = el.id;
+        // var currentFill = el.getAttribute("fill");
+        // if(currentFill!=color&&currentFill!="#0F0"){
+        //     validateForm();
+        // }
+        // el.setAttribute("transform", "translate(5,5)");
+        el.setAttribute("stroke", "white");
+        el.setAttribute("stroke-linejoin", "round");
+        el.setAttribute("stroke-width", 3);
+        // var el = evt.target;
+        // // element.setAttribute("fill", "red"); //debug
+        // addOutPut("5");
+        // // show tooltip TODO
+    }
+    function unhover(evt){ //Undoes the hover
+        var el = evt.target;
+        // el.setAttribute("transform", "translate(0,0)");
+        // el.setAttribute("transform", "translate(0,0)");
+        el.setAttribute("stroke-width", 0);
+    }
+	function addOutput(text){ // Build drop down menu?
+        var TheTextBox = document.getElementById("outputbox");
+        // TheTextBox.innerHTML = TheTextBox.innerHTML +  text + "<br>";
+        // var newtext = document.myform.inputtext.value;
+    	TheTextBox.value += ":" + text+"\n";
+    	TheTextBox.scrollTop = TheTextBox.scrollHeight;
+    }
+    function sendOrders(){ // Email orders to designated address
+        window.location.href = "mailto:llama231@gmail.com"
+             + "?subject=" + "orders"
+             + "&body=" + document.getElementById("outputbox").value;
+    }
+</script>
+</head>
+
+  <head>
+    <style>
+ #map {
+        width: 900px;
+        height: 600px;
+     }
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+    <script>
+      function initMap() {
+        var mapDiv = document.getElementById('map');
+        var map = new google.maps.Map(mapDiv, {
+            center: {lat: 0, lng: 0},
+            zoom: 2
+        });
+      }
+    </script>
+    <script async defer
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBos-CTxBvUoZ5MFBDNq2Pbfu-wekUmeXs&callback=initMap">
+    </script>
+  </body>
+
+
+
+
+<!-- AIzaSyBos-CTxBvUoZ5MFBDNq2Pbfu-wekUmeXs -->
+
+
+</html>
