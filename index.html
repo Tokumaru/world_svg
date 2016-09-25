@@ -94,14 +94,14 @@
         allIds = [];
         for (var i = 0, n = allPaths.length; i < n; ++i) {
             var el = allPaths[i];
-            if (el.id) { 
-                allIds.push(el.id);
-                //   addOutput(el.id); //debug
+            if (el.tag) { 
+                allIds.push(el.tag);
+                //   addOutput(el.tag); //debug
                 //add to drop-down
                 // var select = document.getElementById("territory");
                 // var el2 = document.createElement("option");
-                // el2.textContent = el.id;
-                // el2.value = el.id;
+                // el2.textContent = el.tag;
+                // el2.value = el.tag;
                 // select.appendChild(el2);
             }
         }
@@ -129,7 +129,7 @@
 	    var el = evt.target;
 	    var option = document.getElementById('territory');
 	    var color = document.forms["myForm"]["color"].value;
-        option.value = el.id;
+        option.value = el.tag;
         var currentFill = el.getAttribute("fill");
         validateForm();
 	}
@@ -146,7 +146,7 @@
         var el = evt.target;
 	    var option = document.getElementById('territory');
 	    // var color = document.forms["myForm"]["color"].value;
-        option.value = el.id;
+        option.value = el.tag;
         // var currentFill = el.getAttribute("fill");
         // if(currentFill!=color&&currentFill!="#0F0"){
         //     validateForm();
